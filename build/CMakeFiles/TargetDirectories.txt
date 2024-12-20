@@ -1,0 +1,14 @@
+Q:/Course_project/build/CMakeFiles/MyExecutable.dir
+Q:/Course_project/build/CMakeFiles/edit_cache.dir
+Q:/Course_project/build/CMakeFiles/rebuild_cache.dir
+Q:/Course_project/build/CMakeFiles/list_install_components.dir
+Q:/Course_project/build/CMakeFiles/install.dir
+Q:/Course_project/build/CMakeFiles/install/local.dir
+Q:/Course_project/build/CMakeFiles/install/strip.dir
+Q:/Course_project/build/fmt/CMakeFiles/fmt.dir
+Q:/Course_project/build/fmt/CMakeFiles/edit_cache.dir
+Q:/Course_project/build/fmt/CMakeFiles/rebuild_cache.dir
+Q:/Course_project/build/fmt/CMakeFiles/list_install_components.dir
+Q:/Course_project/build/fmt/CMakeFiles/install.dir
+Q:/Course_project/build/fmt/CMakeFiles/install/local.dir
+Q:/Course_project/build/fmt/CMakeFiles/install/strip.dir

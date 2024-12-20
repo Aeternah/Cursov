@@ -1,0 +1,26 @@
+[
+{
+  "directory": "Q:/Course_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IQ:/Course_project/graaf/include/graaflib -IQ:/Course_project/graaf/include -IQ:/Course_project/fmt/include -g -std=gnu++20 -o CMakeFiles\\MyExecutable.dir\\main.cpp.obj -c Q:\\Course_project\\main.cpp",
+  "file": "Q:\\Course_project\\main.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\main.cpp.obj"
+},
+{
+  "directory": "Q:/Course_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IQ:/Course_project/graaf/include/graaflib -IQ:/Course_project/graaf/include -IQ:/Course_project/fmt/include -g -std=gnu++20 -o CMakeFiles\\MyExecutable.dir\\graph.cpp.obj -c Q:\\Course_project\\graph.cpp",
+  "file": "Q:\\Course_project\\graph.cpp",
+  "output": "CMakeFiles\\MyExecutable.dir\\graph.cpp.obj"
+},
+{
+  "directory": "Q:/Course_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IQ:/Course_project/fmt/include -IQ:/Course_project/graaf/include/graaflib -IQ:/Course_project/graaf/include -g -std=gnu++20 -o fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj -c Q:\\Course_project\\fmt\\src\\format.cc",
+  "file": "Q:\\Course_project\\fmt\\src\\format.cc",
+  "output": "fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
+},
+{
+  "directory": "Q:/Course_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IQ:/Course_project/fmt/include -IQ:/Course_project/graaf/include/graaflib -IQ:/Course_project/graaf/include -g -std=gnu++20 -o fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj -c Q:\\Course_project\\fmt\\src\\os.cc",
+  "file": "Q:\\Course_project\\fmt\\src\\os.cc",
+  "output": "fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
+}
+]
