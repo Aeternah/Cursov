@@ -1,8 +1,11 @@
 # ninja log v5
-5	1376	7564085989360440	CMakeFiles/MyExecutable.dir/main.cpp.obj	89d0fa9570f5faf
-5546	5790	7564086033376006	MyExecutable.exe	8a8995ba908fe3ec
+5	732	7568163973942065	CMakeFiles/MyExecutable.dir/main.cpp.obj	89d0fa9570f5faf
+1697	2025	7568160514553778	MyExecutable.exe	8a8995ba908fe3ec
 15	3524	7564086010838781	fmt/CMakeFiles/fmt.dir/src/os.cc.obj	3842038c77c449ec
-8	2858	7564086004141893	CMakeFiles/MyExecutable.dir/graph.cpp.obj	a4dadfd7fc550a0b
+4	1764	7568163385269743	CMakeFiles/MyExecutable.dir/graph.cpp.obj	a4dadfd7fc550a0b
 11	5233	7564086027820600	fmt/CMakeFiles/fmt.dir/src/format.cc.obj	139c5f0c2c94e083
 1997	2101	7564075275216960	fmt/libfmt.a	97827a80aef47590
 5233	5545	7564086031040404	fmt/libfmtd.a	305ce013edeb85c5
+4	786	7568166322497648	CMakeFiles/MyExecutable.dir/main.cpp.obj	89d0fa9570f5faf
+8	1802	7568166332704375	CMakeFiles/MyExecutable.dir/graph.cpp.obj	a4dadfd7fc550a0b
+1802	1926	7568166333890224	MyExecutable.exe	8a8995ba908fe3ec
