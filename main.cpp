@@ -1,19 +1,15 @@
 #include <iostream>
 #include "graph.h"
-#include "graaflib/graph.h"
 
 int main() {
-    graaf::undirected_graph<int, int> graph;
+    // Создание графа с начальной и целевой вершинами
+    auto [graph, startVertex, targetVertex] = createGraphWithStartAndTarget();
 
-    // Добавление вершин и рёбер
-    addVertex(graph, 1);
-    addVertex(graph, 2);
-    addVertex(graph, 3);
-    addEdge(graph, 1, 2, 10);
-    addEdge(graph, 2, 3, 20);
-
-    // Обход графа
-    performDFS(graph, 1);
+    // Выводим начальную и целевую вершины для проверки
+    std::cout << "Starting DFS from vertex " << startVertex << " to reach vertex " << targetVertex << "." << std::endl;
+    
+    // Обход графа в глубину
+    performDFS(graph, startVertex);
 
     return 0;
 }
